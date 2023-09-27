@@ -1,1 +1,40 @@
-/* место для вашего кода */
+.cover {
+    border: 1px solid red;
+    position: relative;
+    width: 1440px;
+    height: 757px;
+    margin: auto auto 180px;
+    background: url("../images/cover.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.cover::after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.6);
+}
+
+.lots {
+    border: 1px solid red;
+    width: 1440px;
+    height: 579px;
+    margin: auto auto 181px;
+}
+
+.about {
+    border: 1px solid red;
+    width: 1340px;
+    height: 487px;
+    margin: auto auto 180px;
+}
+
+.footer {
+    border: 1px solid red;
+    width: 1340px;
+    height: 97px;
+    margin: auto auto 90px;
+}

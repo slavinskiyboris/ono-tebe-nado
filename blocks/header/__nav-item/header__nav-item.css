@@ -1,0 +1,13 @@
+.header__nav-item {
+    font-size: 18px;
+    font-family: Raleway, serif;
+    font-weight: 400;
+    margin-left: 32px;
+    list-style: circle;
+    text-underline-position: under;
+}
+.header__nav-item:first-of-type {
+    list-style: none;
+    margin-left: 0;
+    /*text-decoration: none; Добавить отдельный класс для ссылки и убрать подчеркивание*/
+}

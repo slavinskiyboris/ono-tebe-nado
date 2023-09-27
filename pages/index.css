@@ -1,0 +1,9 @@
+@import url(../vendor/fonts.css);
+@import url(../styles/global.css);
+@import url(../styles/style.css); /* Удалить после того как раскидаю по БЭМ */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__contacts-item/header__contacts-item.css);
+@import url(../blocks/header/__nav-list/header__nav-list.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__nav-item/header__nav-item.css);

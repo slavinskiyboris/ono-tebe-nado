@@ -1,0 +1,8 @@
+.header__contacts-item {
+    font-size: 18px;
+    font-family: Raleway, serif;
+    font-weight: 400;
+    line-height: 24.30px;
+    text-underline-position: under;
+    list-style: none;
+}
