@@ -1,4 +1,4 @@
-.header__contacts-item {
+.footer__contacts-item {
     font-size: 18px;
     font-family: Raleway, serif;
     font-weight: 400;
@@ -6,7 +6,10 @@
     text-underline-position: under;
     list-style: none;
 }
-.header__contacts-item:hover {
+.footer__contacts-item:hover {
     opacity: 0.5;
     transition: opacity 0.3s ease;
+}
+.footer__contacts-item:last-of-type {
+    opacity: 1;
 }

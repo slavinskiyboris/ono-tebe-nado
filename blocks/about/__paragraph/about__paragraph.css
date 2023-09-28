@@ -1,0 +1,9 @@
+.about__paragraph {
+    font-size: 20px;
+    font-family: Raleway, serif;
+    font-weight: 400;
+    padding-top: 100px;
+}
+.about__paragraph:last-of-type {
+    padding-top: 25px;
+}

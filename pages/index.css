@@ -1,9 +1,38 @@
 @import url(../vendor/fonts.css);
 @import url(../styles/global.css);
 @import url(../styles/style.css); /* Удалить после того как раскидаю по БЭМ */
+/*OVERLAY/DECORATION*/
+@import url(../blocks/overlay/overlay.css);
+@import url(../blocks/decoration/decoration.css);
+/*HEADER*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__contacts-item/header__contacts-item.css);
 @import url(../blocks/header/__nav-list/header__nav-list.css);
 @import url(../blocks/header/__nav/header__nav.css);
 @import url(../blocks/header/__nav-item/header__nav-item.css);
+@import url(../blocks/header/__contacts/header__contacts.css);
+/*COVER*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+/*LOTS*/
+@import url(../blocks/lots/__title/lots__title.css);
+@import url(../blocks/lots/__item/lots__item.css);
+@import url(../blocks/lots/__cards/lots__cards.css);
+@import url(../blocks/lots/__item-paragraph/lots__item-paragraph.css);
+@import url(../blocks/lots/__item-title/lots__item-title.css);
+@import url(../blocks/lots/__link/lots__link.css);
+@import url(../blocks/lots/lots.css);
+/*ABOUT*/
+@import url(../blocks/about/__circle/about__circle.css);
+@import url(../blocks/about/__logo/about__logo.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__paragraph/about__paragraph.css);
+@import url(../blocks/about/__title/about__title.css);
+/*FOOTER*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__socials-icon/footer__socials-icon.css);
+@import url(../blocks/footer/__socials/footer__socials.css);
+@import url(../blocks/footer/__contacts-item/footer__contacts-item.css);
+@import url(../blocks/footer/__nav-item/footer__nav-item.css);
+@import url(../blocks/footer/__socials-link/footer__socials-link.css);

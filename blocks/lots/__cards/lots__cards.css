@@ -1,0 +1,5 @@
+.lots__cards {
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 25px;
+}

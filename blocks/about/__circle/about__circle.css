@@ -1,0 +1,8 @@
+.about__circle {
+    background: black;
+    clip-path: circle(50%);
+    height: 240px;
+    width: 240px;
+    margin-left: 95px;
+    margin-right: 120px;
+}
