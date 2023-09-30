@@ -6,4 +6,6 @@
     margin: auto auto 180px;
     background: url("../../images/cover.jpg") center no-repeat;
     background-size: cover;
+    display: flex;
+    flex-direction: column;
 }

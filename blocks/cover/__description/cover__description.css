@@ -1,0 +1,8 @@
+.cover__description {
+    display: flex;
+    align-self: flex-end;
+    padding-top: 135px;
+    padding-right: 50px;
+    align-items: center;
+    column-gap: 78px;
+}

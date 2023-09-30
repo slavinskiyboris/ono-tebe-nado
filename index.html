@@ -17,7 +17,7 @@
           <li class="header__nav-item"><a href="#about">об аукционе</a></li>
         </ul>
       </nav>
-      <img class="header__logo" src="images/logo-black.svg" alt="Логотип">
+      <a class="header__logo-link" href="#"><img class="header__logo" src="images/logo-black.svg" alt="Логотип"></a>
       <ul class="header__contacts">
         <li class="header__contacts-item"><a href="tel:+99995555555">+9 999 555 5555</a></li>
         <li class="header__contacts-item"><a href="mailto:info@sobaka.ge">info@sobaka.ge</a></li>
@@ -28,7 +28,18 @@
     <main class="main">
 
       <section class="cover overlay">
-        <h1 class="cover__title">оно тебе надо</h1>
+        <h1 class="cover__title">
+<!--          <span class="cover__title-letter cover__title-after" title="о">он</span>-->
+<!--          <span class="cover__title-letter cover__title-after" title="е">теб</span>-->
+<!--          <span class="cover__title-letter cover__title-before" title="н">адо</span>-->
+          <span class="cover__title-letter">оно</span>
+          <span class="cover__title-letter">тебе</span>
+          <span class="cover__title-letter">надо</span>
+        </h1>
+        <div class="cover__description">
+          <p class="cover__description-text">Аукцион&nbsp;&nbsp;&nbsp;&nbsp;вещей,&nbsp;&nbsp;&nbsp;&nbsp;в&nbsp;&nbsp;&nbsp;&nbsp;которые&nbsp;&nbsp;&nbsp;&nbsp;никто&nbsp;&nbsp;&nbsp;&nbsp;не&nbsp;&nbsp;&nbsp;&nbsp;верил</p>
+          <button class="cover__bet-button">Сделать ставку</button>
+        </div>
       </section>
 
       <section class="lots" id="lots">
