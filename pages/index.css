@@ -1,6 +1,5 @@
 @import url(../vendor/fonts.css);
 @import url(../styles/global.css);
-@import url(../styles/style.css); /* Удалить после того как раскидаю по БЭМ */
 /*OVERLAY/DECORATION*/
 @import url(../blocks/overlay/overlay.css);
 @import url(../blocks/decoration/decoration.css);
@@ -15,11 +14,15 @@
 /*COVER*/
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
-@import url(../blocks/cover/__title-letter/cover__title-letter.css);
-@import url(../blocks/cover/__title-grid/cover__title-grid.css);
+@import url(../blocks/cover/__letter/cover__letter.css);
 @import url(../blocks/cover/__bet-button/cover__bet-button.css);
 @import url(../blocks/cover/__description-text/cover__description-text.css);
 @import url(../blocks/cover/__description/cover__description.css);
+@import url(../blocks/cover/__letter-spacing-extended/cover__letter-spacing-extended.css);
+@import url(../blocks/cover/__letter-spacing-delete/cover__letter-spacing-delete.css);
+@import url(../blocks/cover/__aligned-text_center/cover__aligned-text_center.css);
+@import url(../blocks/cover/__aligned-text_right/cover__aligned-text_right.css);
+@import url(../blocks/cover/__aligned-text/cover__aligned-text.css);
 /*LOTS*/
 @import url(../blocks/lots/__title/lots__title.css);
 @import url(../blocks/lots/__item/lots__item.css);

@@ -1,6 +1,5 @@
 .footer__socials {
     display: flex;
-    width: 230px;
-    height: 48px;
     justify-content: space-between;
+    column-gap: 50px;
 }

@@ -7,6 +7,9 @@
     z-index: 2;
     text-transform: uppercase;
     padding-top: 165px;
+    display: flex;
+    flex-direction:column;
+    row-gap: 20px;
 
 }
 /*.cover:nth-of-type(2) {*/
