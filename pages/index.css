@@ -31,12 +31,15 @@
 @import url(../blocks/lots/__item-title/lots__item-title.css);
 @import url(../blocks/lots/__link/lots__link.css);
 @import url(../blocks/lots/lots.css);
+@import url(../blocks/lots/__item-wrapper/lots__item-wrapper.css);
+@import url(../blocks/lots/__item-link/lots__item-link.css);
 /*ABOUT*/
 @import url(../blocks/about/__circle/about__circle.css);
 @import url(../blocks/about/__logo/about__logo.css);
 @import url(../blocks/about/about.css);
-@import url(../blocks/about/__paragraph/about__paragraph.css);
+@import url(../blocks/about/__paragraph-text/about__paragraph-text.css);
 @import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__paragraph/about__paragraph.css);
 /*FOOTER*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__socials-icon/footer__socials-icon.css);

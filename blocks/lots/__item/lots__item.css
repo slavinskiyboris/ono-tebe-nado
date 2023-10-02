@@ -1,18 +1,5 @@
 .lots__item {
-    background: url("../../../images/card-lot-01.jpg") no-repeat center;
-    background-size: cover;
-    width: 430px;
-    height: 450px;
-    position: relative;
-    justify-content: space-between;
     display: flex;
-    flex-direction: column;
-    padding: 50px 40px;
-    flex-grow: 1;
-}
-.lots__item:nth-of-type(2) {
-    background: url("../../../images/card-lot-02.jpg");
-}
-.lots__item:nth-of-type(3) {
-    background: url("../../../images/card-lot-03.jpg");
+    flex-wrap: wrap;
+    align-content: space-between;
 }
