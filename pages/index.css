@@ -1,5 +1,5 @@
 @import url(../vendor/fonts.css);
-@import url(../styles/global.css);
+@import url(../vendor/global.css);
 /*OVERLAY/DECORATION*/
 @import url(../blocks/overlay/overlay.css);
 @import url(../blocks/decoration/decoration.css);
@@ -20,8 +20,8 @@
 @import url(../blocks/cover/__description/cover__description.css);
 @import url(../blocks/cover/__letter-spacing-extended/cover__letter-spacing-extended.css);
 @import url(../blocks/cover/__letter-spacing-delete/cover__letter-spacing-delete.css);
-@import url(../blocks/cover/__aligned-text_center/cover__aligned-text_center.css);
-@import url(../blocks/cover/__aligned-text_right/cover__aligned-text_right.css);
+@import url(../blocks/cover/__aligned-text-center/cover__aligned-text-center.css);
+@import url(../blocks/cover/__aligned-text-right/cover__aligned-text-right.css);
 @import url(../blocks/cover/__aligned-text/cover__aligned-text.css);
 /*LOTS*/
 @import url(../blocks/lots/__title/lots__title.css);

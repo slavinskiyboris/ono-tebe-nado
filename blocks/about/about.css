@@ -1,4 +1,8 @@
 .about {
     display: flex;
-    margin: auto auto 180px;
+    margin: 0 auto 180px;
+    /*max-width: 1340px;*/
+    padding-left: 50px;
+    padding-right: 50px;
 }
+

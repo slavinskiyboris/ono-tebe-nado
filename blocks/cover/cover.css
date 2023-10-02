@@ -1,8 +1,9 @@
 .cover {
     position: relative;
-    margin: auto auto 180px;
+    margin: 0 auto 180px;
     background: url("../../images/cover.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
+    /*max-width: 1440px;*/
 }
