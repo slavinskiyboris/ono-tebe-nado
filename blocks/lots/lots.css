@@ -1,7 +1,5 @@
 .lots {
     display: flex;
     flex-direction: column;
-    width: 1340px;
-    height: 579px;
     margin: auto auto 181px;
 }

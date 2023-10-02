@@ -1,7 +1,5 @@
 .footer {
     display: flex;
     justify-content: space-between;
-    width: 1340px;
-    height: 97px;
     margin: auto auto 90px;
 }
