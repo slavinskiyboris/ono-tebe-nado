@@ -2,6 +2,8 @@
     position: relative;
     color: white;
     font-size: 100px;
+    line-height: 100px;
+    font-style: normal;
     font-family: Raleway, sans-serif;
     font-weight: 700;
     z-index: 2;
@@ -10,15 +12,4 @@
     display: flex;
     flex-direction:column;
     row-gap: 20px;
-
 }
-/*.cover:nth-of-type(2) {*/
-/*    justify-items: center;*/
-/*    padding-left: 0;*/
-/*}*/
-/*.cover:nth-of-type(3) {*/
-/*    justify-items: end;*/
-/*    padding-right: 50px;*/
-/*    padding-left: 0;*/
-/*    margin: 0;*/
-/*}*/

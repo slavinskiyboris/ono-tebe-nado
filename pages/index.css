@@ -11,6 +11,7 @@
 @import url(../blocks/header/__nav/header__nav.css);
 @import url(../blocks/header/__nav-item/header__nav-item.css);
 @import url(../blocks/header/__contacts/header__contacts.css);
+@import url(../blocks/header/__address/header__address.css);
 /*COVER*/
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
@@ -47,3 +48,4 @@
 @import url(../blocks/footer/__contacts-item/footer__contacts-item.css);
 @import url(../blocks/footer/__nav-item/footer__nav-item.css);
 @import url(../blocks/footer/__socials-link/footer__socials-link.css);
+@import url(../blocks/footer/__address/footer__address.css);

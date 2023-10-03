@@ -5,6 +5,8 @@
     margin-left: 32px;
     list-style: circle;
     text-underline-position: under;
+    font-style: normal;
+    line-height: normal;
 }
 .header__nav-item:first-of-type {
     list-style: none;
@@ -13,7 +15,4 @@
 .header__nav-item:hover {
     opacity: 0.5;
     transition: opacity 0.3s ease;
-}
-.header__contacts-item:last-of-type {
-    opacity: 1;
 }
